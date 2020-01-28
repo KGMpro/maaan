@@ -1,0 +1,10 @@
+C:\Users\Markushin_DS\Desktop\Chating\Chating\bin\Debug\Chating.exe.config
+C:\Users\Markushin_DS\Desktop\Chating\Chating\obj\Debug\Chating.csprojResolveAssemblyReference.cache
+C:\Users\Markushin_DS\Desktop\Chating\Chating\obj\Debug\Chating.Chat.resources
+C:\Users\Markushin_DS\Desktop\Chating\Chating\obj\Debug\Chating.Form1.resources
+C:\Users\Markushin_DS\Desktop\Chating\Chating\obj\Debug\Chating.Properties.Resources.resources
+C:\Users\Markushin_DS\Desktop\Chating\Chating\obj\Debug\Chating.csproj.GenerateResource.Cache
+C:\Users\Markushin_DS\Desktop\Chating\Chating\bin\Debug\Chating.exe
+C:\Users\Markushin_DS\Desktop\Chating\Chating\bin\Debug\Chating.pdb
+C:\Users\Markushin_DS\Desktop\Chating\Chating\obj\Debug\Chating.exe
+C:\Users\Markushin_DS\Desktop\Chating\Chating\obj\Debug\Chating.pdb
